@@ -1,2 +1,2 @@
-# -eslint-plugin
+# @appruut/eslint-plugin
 Eslint plugin
