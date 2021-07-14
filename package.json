@@ -1,0 +1,46 @@
+{
+  "name": "@appruut/eslint-plugin",
+  "version": "1.0.0",
+  "description": "ESlint rules for typescript",
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "release": "np",
+    "upgrade-pkg": "ncu --doctor -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appruut/eslint-plugin.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "typescript"
+  ],
+  "author": "appruut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appruut/eslint-plugin/issues"
+  },
+  "homepage": "https://github.com/appruut/eslint-plugin#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "np": "^7.5.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.3",
+    "@typescript-eslint/parser": "^4.28.3"
+  },
+  "peerDependencies": {
+    "eslint": "^7.30.0"
+  },
+  "directories": {
+    "dist": "dist"
+  },
+  "np": {
+    "tests": false
+  }
+}
