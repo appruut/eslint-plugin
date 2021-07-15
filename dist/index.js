@@ -7,7 +7,7 @@
 // sample plugins
 module.exports = {
   configs: {
-    tspackages: require("./tspackage.json"),
-    tsapplications: require("./tsapp.json"),
+    "tsc-custom": require("./tsc-custom.json"),
+    recommended: require("./recommended.json"),
   },
 };
