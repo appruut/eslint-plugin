@@ -5,7 +5,7 @@
 </p>
 <h2>Installation</h2>
 
-<h6>Install <a href="www.eslint.org">ESlint</a></h6>
+<h6>Install [ESlint!](https://www.eslint.org)</h6>
 <pre height="5px">
   <code>
     npm i eslint --save-dev
