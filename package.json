@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appruut/eslint-plugin.git"
+    "url": "https://github.com/appruut/eslint-plugin.git"
   },
   "keywords": [
     "eslint",
