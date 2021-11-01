@@ -27,12 +27,12 @@
   },
   "homepage": "https://github.com/appruut/eslint-plugin#readme",
   "devDependencies": {
-    "eslint": "^7.30.0",
+    "eslint": "^8.1.0",
     "np": "^7.5.0"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.28.3",
-    "@typescript-eslint/parser": "^4.28.3"
+    "@typescript-eslint/eslint-plugin": "^5.2.0",
+    "@typescript-eslint/parser": "^5.2.0"
   },
   "peerDependencies": {
     "eslint": "^7.30.0"
